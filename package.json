@@ -1,0 +1,32 @@
+{
+  "name": "third-party-integration",
+  "version": "1.0.0",
+  "description": "Small web application that integrates The public third party API randomDuck.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specification\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ParysUnangst/Third-Party-Integration.git"
+  },
+  "keywords": [
+    "Web",
+    "Server",
+    "Node.Js",
+    "Express.Js",
+    "RandomDuck",
+    "ThirdParty",
+    "Integration"
+  ],
+  "author": "Parys Unangst parys.unangst@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ParysUnangst/Third-Party-Integration/issues"
+  },
+  "homepage": "https://github.com/ParysUnangst/Third-Party-Integration#readme",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "express": "^4.18.2"
+  }
+}
