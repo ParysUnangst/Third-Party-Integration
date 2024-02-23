@@ -4,7 +4,7 @@ const axios = require('axios');
 const app = express();
 const PORT = process.env.PORT || 3000;
 
-//define a route to fetxh and display a random duck image
+//define a route to fetch and display a random duck image
 app.get('/random-duck', async (req, res) => {
     try {
         //fetch a image from the API
